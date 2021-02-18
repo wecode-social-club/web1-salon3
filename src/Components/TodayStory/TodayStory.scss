@@ -1,0 +1,55 @@
+.TodayStory {
+  .story-wrap {
+    display: flex;
+
+    justify-content: left;
+    width: 929.6px;
+    height: 283.59px;
+  }
+  .story {
+    width: 289.862px;
+    margin-left: 20px;
+  }
+  .nickname-name {
+    font-family: "Noto Sans KR", "Apple SD Gothic Neo", "맑은 고딕",
+      "Malgun Gothic", sans-serif;
+    font-size: 13px;
+    font-weight: 100;
+  }
+
+  .nickname {
+    display: flex;
+    width: 262.4px;
+    height: 122px;
+  }
+  .title {
+    font-family: "Noto Sans KR", "Apple SD Gothic Neo", "맑은 고딕",
+      "Malgun Gothic";
+    font-size: 20px;
+    color: black;
+    font-weight: 700;
+    margin: 20px;
+  }
+
+  .story-img {
+    width: 289.862px;
+    height: 202.9px;
+    border-radius: 3%;
+  }
+
+  .nickname-img {
+    width: 22px;
+    height: 22px;
+    border-radius: 70%;
+    margin-right: 5px;
+  }
+
+  .story-name {
+    font-size: 15px;
+    line-height: 1.3;
+    font-weight: 700;
+    font-family: "Noto Sans KR", "Apple SD Gothic Neo", "맑은 고딕",
+      "Malgun Gothic", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+}
